@@ -3,5 +3,5 @@ class Car:
         self.brand = brand
         print(f"Car Brand {self.brand}")
 
-car1 = Car("Mercedes")
+car1 = Car("BMW")
 car2 = Car("Toyota")
